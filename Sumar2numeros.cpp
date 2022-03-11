@@ -4,6 +4,8 @@
 using namespace std;
 
 int main(){ 
+    //autor: Danny Sapón
+    //fecha: 10/03/2022
     int num1, num2, suma;
     cout << "Ingrese el primer numero: ";
     cin >> num1;
